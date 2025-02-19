@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fonts.h": "c",
+        "vga.h": "c",
+        "main.h": "c",
+        "plasma.h": "c"
+    }
+}
