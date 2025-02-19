@@ -7,4 +7,4 @@
 # youtube shorts 
 https://www.youtube.com/shorts/jp2xcr0RsdM
 
-![Screenshot](/PICTURES/plasma.jpg)
+![Screenshot](/PICTURES/plasma.png)
